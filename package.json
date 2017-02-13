@@ -1,6 +1,6 @@
 {
   "name": "t9",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "T9 Predictive Search",
   "main": "index.js",
   "scripts": {
