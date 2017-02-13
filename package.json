@@ -1,0 +1,25 @@
+{
+  "name": "t9",
+  "version": "1.0.0",
+  "description": "T9 Predictive Search",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/grant/t9.git"
+  },
+  "author": "Grant Timmerman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/grant/t9/issues"
+  },
+  "homepage": "https://github.com/grant/t9#readme",
+  "devDependencies": {
+    "an-array-of-english-words": "^1.2.0"
+  },
+  "dependencies": {
+    "trie-search": "^1.0.0"
+  }
+}
