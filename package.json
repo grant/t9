@@ -20,6 +20,7 @@
     "an-array-of-english-words": "^1.2.0"
   },
   "dependencies": {
+    "cartesian-product": "^2.1.2",
     "trie-search": "^1.0.0"
   }
 }

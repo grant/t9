@@ -6,6 +6,10 @@ an-array-of-english-words@^1.2.0:
   version "1.2.0"
   resolved "https://registry.yarnpkg.com/an-array-of-english-words/-/an-array-of-english-words-1.2.0.tgz#c7e0c0e1eae416c87f6f741655ec2d37654fb5c9"
 
+cartesian-product@^2.1.2:
+  version "2.1.2"
+  resolved "https://registry.yarnpkg.com/cartesian-product/-/cartesian-product-2.1.2.tgz#c9a8462c54ab19a0c5fd32192922e239ab4ca4fd"
+
 hasharray@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/hasharray/-/hasharray-1.0.0.tgz#029079cb36018e2688776950f4e87065ec80bfdb"
