@@ -39,7 +39,7 @@ T9Search.prototype.predict = (prefix) => {
   })
   var combos = product(letters);
   var predictions = combos.map(combo => combo.join(''))
-    .map(prefix => this.trie.get(prefix, { min: 5 })
+    .map(prefix => this.trie.get(prefix, { min: 5 }))
     .filter(a => a.length)[0];
   return predictions.map(prediction => prediction.value);
 };
